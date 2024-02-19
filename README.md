@@ -1,5 +1,5 @@
 ### Welcome, call me ___viseconde___ (or just ___Caio___ :0)
-* ___Mechanincal Engeneering___ student.
+* ___Mechanincal Engineerig___ student.
 * ___Programming and Artificial Intelligence___ enthusiast with a focus on ___Engineering___ and ___Data Analysis___.
 * Mainly with ___Python___
 
