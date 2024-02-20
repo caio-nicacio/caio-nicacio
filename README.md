@@ -7,8 +7,8 @@
 [![Linkedin]( https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/caio-m-nicacio)
 [![Instagram]( https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://www.instagram.com/vice.conde)
 
-![viseconde's GitHub stats](https://github-readme-stats.vercel.app/api?username=viseconde&show_icons=true&theme=algolia)
-![viseconde's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viseconde&layout=compact&theme=algolia)
+![viseconde's GitHub stats](https://github-readme-stats.vercel.app/api?username=viseconde&show_icons=true&theme=github_dark)
+![viseconde's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viseconde&layout=compact&theme=github_dark)
 
 ### Technologies and habilities in development
 * __AI tools__<div style="display: inline_block"></br>
